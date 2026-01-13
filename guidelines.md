@@ -55,6 +55,7 @@ See [Corpora](#corpora) and [Queries](#queries) for a description of the files a
 | dev3 queries ('24 test set)                   | [dev3-2025-queries.jsonl](https://zenodo.org/records/15356599/files/dev3-2025-queries.jsonl)       | 536 | 259c11645694a3c5230b66c7852d4d80 |
 | dev3 qrels                                    | [dev3-2025-qrel.txt](https://zenodo.org/records/15356599/files/dev3-2025-qrel.txt)   | 536 | 48ab0d24a5946861546e54064238477f |
 | test queries                                  | [test-2025-queries.jsonl](https://zenodo.org/records/15869078/files/test-2025-queries.jsonl)         | 622 | 374cdc9142240f8bc9e4b071c35713f8 |
+| test query mapping                            | [test-2025-query-mapping.tsv](https://zenodo.org/records/18235970/files/test-2025-query-mapping.tsv)           | 622 | 89bcf803ac2ae73feb62e622e1327ef3 |
 
 Note: In our train / dev1 / dev2 sets all queries come only from the movie domain while dev3 queries include a combination of movies, landmarks, and celebrities.
 The test queries for this year can be from any arbitrary domain.
