@@ -10,7 +10,7 @@ layout: default
 * 2025: <a href="guidelines">Guidelines</a>,
 <a href="https://bhaskar-mitra.github.io/showpdf/?file=Overview_tot_2025" target="_blank">overview paper</a>,
 <a href="https://docs.google.com/presentation/d/194Fb32lMPRQSK27kS02ptyktPmah92U3456fHajbdSQ/" target="_blank">overview presentation</a>, and
-<a href="https://docs.google.com/presentation/d/1yYIb6cOc_hj2dtj0ErKNaMFczMhwjIuxoXC_4Vo6Kik/edit?usp=sharing" target="_blank">track session opening presentation</a>
+<a href="https://docs.google.com/presentation/d/1yYIb6cOc_hj2dtj0ErKNaMFczMhwjIuxoXC_4Vo6Kik/edit?usp=sharing" target="_blank">track session opening presentation</a>.
 * 2024: <a href="guidelines-2024">Guidelines</a>,
 <a href="https://trec.nist.gov/pubs/trec33/papers/Overview_tot.pdf" target="_blank">overview paper</a>,
 <a href="https://docs.google.com/presentation/d/1hieEN2lJ27492TFI4fa6wkQ8DPlVlBtlS1PU90neAyk/" target="_blank">overview presentation</a>,
